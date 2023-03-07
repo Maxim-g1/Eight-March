@@ -19,7 +19,7 @@ body {
 
 .wrapper {
     min-height: 100%;
-    background: linear-gradient(rgb(0, 204, 255), rgb(243, 182, 192));
+    background: linear-gradient( rgb(0, 204, 255), rgb(243, 182, 192));
 }
 
 ul {
@@ -130,5 +130,4 @@ h5 {
     }
 
 }
-
 
